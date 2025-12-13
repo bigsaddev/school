@@ -3,11 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2025-12-13 Sat 21:18 -->
+<!-- 2025-12-13 Sat 23:51 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Übungsaufgaben mit Lösungsteil</title>
-<meta name="author" content="Christian Döhmann" />
+<meta name="author" content="Christian" />
 <meta name="generator" content="Org Mode" />
 <style type="text/css">
   #content { max-width: 60em; margin: auto; }
@@ -235,12 +235,13 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org5fb490d">1. Mischaufgabe</a></li>
+<li><a href="#org224dbe6">1. Mischaufgabe</a></li>
+<li><a href="#org90013a3">2. Häufigkeitsrechnung</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5fb490d" class="outline-2">
-<h2 id="org5fb490d"><span class="section-number-2">1.</span> Mischaufgabe</h2>
+<div id="outline-container-org224dbe6" class="outline-2">
+<h2 id="org224dbe6"><span class="section-number-2">1.</span> Mischaufgabe</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Besucherzahlen für einen Zoo:
@@ -295,7 +296,7 @@ Besucherzahlen für einen Zoo:
 </p>
 
 <p>
-<b><b>b)</b></b> Wie viele Besucher hätten es sein müssen, um den durchschnitt der Woche auf genau 400 zu bringen.
+<b><b>b)</b></b> Wie viele Besucher hätten es sein müssen, um den durchschnitt der Woche auf genau 400 zu bringen?
 </p>
 
 <p>
@@ -304,7 +305,7 @@ Besucherzahlen für einen Zoo:
 
 <p>
 <b><b>Formeln:</b></b>
-\[\overline{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}\]
+\[\bar{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}\]
 </p>
 
 <p>
@@ -312,17 +313,26 @@ Besucherzahlen für einen Zoo:
 </p>
 
 <p>
-<details><summary>Lösungen</summary>
+<b><b><details><summary>Lösungen aufklappen</summary></b></b>
 </p>
 
 <p>
-a) \[\overline{x} = \frac{323+289+256+315+458+400+282}{7} = 331\]
+a) \[\bar{x} = \frac{323+289+256+315+458+400+282}{7} = 331\]
 </p>
 
 <p>
-b) Formel umstellen
-\[\overline{x}\cdot7=\text{Besucher}\]
+b) <b><b>Formel umstellen</b></b>
+\[\bar{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}} |\cdot\text{Anzahl der Werte}\]
+\[\bar{x}\cdot\text{Anzahl der Werte}=\text{Summe aller Werte}\]
+</p>
+
+
+<p>
 \[400\cdot7 = 2800\]
+</p>
+
+<p>
+Es müssen also \(2800\) Besucher über die gesamte Woche erscheinen, um einen durschnitt von 400 Besuchern zu erreichen.
 </p>
 
 <p>
@@ -331,7 +341,202 @@ c)
 \[G = 2323\]
 \[p = \frac{W}{G}\]
 \[p = \frac{2800}{2323}=1.2053\]
+\[p \cdot100=120.53\]
 \[p = 20.53\%\]
+</p>
+
+<p>
+Wenn 2800 Besucher erscheinen, ist dies ein Anstieg von \(20.53\%\)
+</p>
+
+<p>
+</details>
+</p>
+<hr />
+</div>
+</div>
+<div id="outline-container-org90013a3" class="outline-2">
+<h2 id="org90013a3"><span class="section-number-2">2.</span> Häufigkeitsrechnung</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Die letzte Klausur einer 8. Klasse ist wie folgt ausgefallen:
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Noten</td>
+<td class="org-right">Absolute Häufigkeit</td>
+<td class="org-left">Relative Häufigkeit</td>
+<td class="org-left">Relative Häufigkeit in %</td>
+</tr>
+
+<tr>
+<td class="org-left">Sehr gut</td>
+<td class="org-right">4</td>
+<td class="org-left">?</td>
+<td class="org-left">?%</td>
+</tr>
+
+<tr>
+<td class="org-left">Gut</td>
+<td class="org-right">5</td>
+<td class="org-left">?</td>
+<td class="org-left">?%</td>
+</tr>
+
+<tr>
+<td class="org-left">Befriedigend</td>
+<td class="org-right">6</td>
+<td class="org-left">?</td>
+<td class="org-left">?%</td>
+</tr>
+
+<tr>
+<td class="org-left">Ausreichend</td>
+<td class="org-right">3</td>
+<td class="org-left">?</td>
+<td class="org-left">?%</td>
+</tr>
+
+<tr>
+<td class="org-left">Mangelhaft</td>
+<td class="org-right">4</td>
+<td class="org-left">?</td>
+<td class="org-left">?%</td>
+</tr>
+
+<tr>
+<td class="org-left">Ungenügend</td>
+<td class="org-right">1</td>
+<td class="org-left">?</td>
+<td class="org-left">?%</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+Berechne die Häufigkeit jeder Note, berechne anschließend den Notenspiegel.
+</p>
+
+<p>
+<b><b>Formeln:</b></b>
+\[h = \frac{H}{n}\]
+\[\bar{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}\]
+</p>
+
+<p>
+<b><b><b><details><summary>Lösungen aufklappen</summary></b></b></b>
+Sehr gut: \(\frac{4}{23}=0.1739\)
+</p>
+
+<p>
+Gut: \(\frac{5}{23}=0.2174\)
+</p>
+
+<p>
+Befriedigend: \(\frac{6}{23}=0.2608\)
+</p>
+
+<p>
+Ausreichend: \(\frac{3}{23}=0.1304\)
+</p>
+
+<p>
+Mangelhaft: \(\frac{4}{23}=0.1739\)
+</p>
+
+<p>
+Ungenügend: \(\frac{1}{23}=0.0434\)
+</p>
+
+<p>
+Der Notenspiegel berechnet sich aus \(\frac{(4\cdot1)+(5\cdot2)+(6\cdot3)+(3\cdot4)+(4\cdot5)+(1\cdot6)}{23}=\frac{70}{23}=3.04\)
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Noten</td>
+<td class="org-right">Absolute Häufigkeit</td>
+<td class="org-right">Relative Häufigkeit</td>
+<td class="org-right">Relative Häufigkeit in %</td>
+</tr>
+
+<tr>
+<td class="org-left">Sehr gut</td>
+<td class="org-right">4</td>
+<td class="org-right">0.1739</td>
+<td class="org-right">17.39%</td>
+</tr>
+
+<tr>
+<td class="org-left">Gut</td>
+<td class="org-right">5</td>
+<td class="org-right">0.2174</td>
+<td class="org-right">21.74%</td>
+</tr>
+
+<tr>
+<td class="org-left">Befriedigend</td>
+<td class="org-right">6</td>
+<td class="org-right">0.2608</td>
+<td class="org-right">26.08%</td>
+</tr>
+
+<tr>
+<td class="org-left">Ausreichend</td>
+<td class="org-right">3</td>
+<td class="org-right">0.1304</td>
+<td class="org-right">13.04%</td>
+</tr>
+
+<tr>
+<td class="org-left">Mangelhaft</td>
+<td class="org-right">4</td>
+<td class="org-right">0.1739</td>
+<td class="org-right">17.39%</td>
+</tr>
+
+<tr>
+<td class="org-left">Ungenügend</td>
+<td class="org-right">1</td>
+<td class="org-right">0.0434</td>
+<td class="org-right">4.34?%</td>
+</tr>
+
+<tr>
+<td class="org-left">Gesamt</td>
+<td class="org-right">23</td>
+<td class="org-right">0.9998</td>
+<td class="org-right">100%</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+\(0.9998\approx1\)
 </p>
 
 <p>
@@ -341,8 +546,8 @@ c)
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Christian Döhmann</p>
-<p class="date">Created: 2025-12-13 Sat 21:18</p>
+<p class="author">Author: Christian</p>
+<p class="date">Created: 2025-12-13 Sat 23:51</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

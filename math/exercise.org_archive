@@ -1,0 +1,50 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/chris/Documents/school/math/exercise.org
+
+
+* Häufigkeitsrechnung
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-13 Sat 23:30
+:ARCHIVE_FILE: ~/Documents/school/math/exercise.org
+:ARCHIVE_CATEGORY: exercise
+:END:
+| Noten        | Absolute Häufigkeit | Relative Häufigkeit | Relative Häufigkeit in % |
+| Sehr gut     |                   4 | ?                   | ?%                       |
+| Gut          |                   5 | ?                   | ?%                       |
+| Befriedigend |                   6 | ?                   | ?%                       |
+| Ausreichend  |                   3 | ?                   | ?%                       |
+| Mangelhaft   |                   4 | ?                   | ?%                       |
+| Ungenügend   |                   1 | ?                   | ?%                       |
+
+Berechne die Häufigkeit jeder Note, berechne anschließend den Notenspiegel.
+
+**Formeln:**
+$$h = \frac{H}{n}$$
+ 
+{{{spoiler(Lösungen aufklappen)}}}
+Sehr gut = $\frac{4}{23}=0.1739$
+
+Gut = $\frac{5}{23}=0.2174$
+
+Befriedigend = $\frac{6}{23}=0.2608$
+
+Ausreichend = $\frac{3}{23}=0.1304$
+
+Mangelhaft = $\frac{4}{23}=0.1739$
+
+Ungenügend = $\frac{1}{23}=0.0434$
+
+| Noten        | Absolute Häufigkeit | Relative Häufigkeit | Relative Häufigkeit in % |
+| Sehr gut     |                   4 |              0.1739 |                   17.39% |
+| Gut          |                   5 |              0.2174 |                   21.74% |
+| Befriedigend |                   6 |              0.2608 |                   26.08% |
+| Ausreichend  |                   3 |              0.1304 |                   13.04% |
+| Mangelhaft   |                   4 |              0.1739 |                   17.39% |
+| Ungenügend   |                   1 |              0.0434 |                   4.34?% |
+| Gesamt       |                  23 |              0.9998 |                     100% |
+
+$0.9998\approx1$
+
+{{{endspoiler}}}

@@ -3,7 +3,7 @@
 #+HTML_HEAD: <script src="../spoiler.js" defer></script>
 #+macro: spoiler @@html:<details><summary>$1</summary>@@
 #+macro: endspoiler @@html:</details>@@
-
+#+macro: line -----
 
 * Mischaufgabe
 Besucherzahlen für einen Zoo:
@@ -12,28 +12,80 @@ Besucherzahlen für einen Zoo:
 
 **a)** Berechne, wie viele Besucher durchschnittlich pro Tag vor Ort waren, Runde sinnvoll.
 
-**b)** Wie viele Besucher hätten es sein müssen, um den durchschnitt der Woche auf genau 400 zu bringen.
+**b)** Wie viele Besucher hätten es sein müssen, um den durchschnitt der Woche auf genau 400 zu bringen?
 
 **c)** Wie hoch ist der Anstieg in Prozent, für die gesamte Woche?
 
 **Formeln:**
-$$\overline{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}$$
+$$\bar{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}$$
 
 $$p = \frac{W}{G}$$
 
-{{{spoiler(Lösungen)}}}
+**{{{spoiler(Lösungen aufklappen)}}}**
 
-a) $$\overline{x} = \frac{323+289+256+315+458+400+282}{7} = 331$$
+a) $$\bar{x} = \frac{323+289+256+315+458+400+282}{7} = 331$$
 
-b) Formel umstellen
-$$\overline{x}\cdot7=\text{Besucher}$$
+b) **Formel umstellen**
+$$\bar{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}} |\cdot\text{Anzahl der Werte}$$
+$$\bar{x}\cdot\text{Anzahl der Werte}=\text{Summe aller Werte}$$
+
+
 $$400\cdot7 = 2800$$
+
+Es müssen also $2800$ Besucher über die gesamte Woche erscheinen, um einen durschnitt von 400 Besuchern zu erreichen.
 
 c) 
 $$W = 2800$$
 $$G = 2323$$
 $$p = \frac{W}{G}$$
 $$p = \frac{2800}{2323}=1.2053$$
+$$p \cdot100=120.53$$
 $$p = 20.53\%$$
+
+Wenn 2800 Besucher erscheinen, ist dies ein Anstieg von $20.53\%$
+
+{{{endspoiler}}}
+{{{line}}}
+* Häufigkeitsrechnung
+Die letzte Klausur einer 8. Klasse ist wie folgt ausgefallen:
+| Noten        | Absolute Häufigkeit | Relative Häufigkeit | Relative Häufigkeit in % |
+| Sehr gut     |                   4 | ?                   | ?%                       |
+| Gut          |                   5 | ?                   | ?%                       |
+| Befriedigend |                   6 | ?                   | ?%                       |
+| Ausreichend  |                   3 | ?                   | ?%                       |
+| Mangelhaft   |                   4 | ?                   | ?%                       |
+| Ungenügend   |                   1 | ?                   | ?%                       |
+
+Berechne die Häufigkeit jeder Note, berechne anschließend den Notenspiegel.
+
+**Formeln:**
+$$h = \frac{H}{n}$$
+$$\bar{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}$$
+ 
+***{{{spoiler(Lösungen aufklappen)}}}***
+Sehr gut: $\frac{4}{23}=0.1739$
+
+Gut: $\frac{5}{23}=0.2174$
+
+Befriedigend: $\frac{6}{23}=0.2608$
+
+Ausreichend: $\frac{3}{23}=0.1304$
+
+Mangelhaft: $\frac{4}{23}=0.1739$
+
+Ungenügend: $\frac{1}{23}=0.0434$
+
+Der Notenspiegel berechnet sich aus $\frac{(4\cdot1)+(5\cdot2)+(6\cdot3)+(3\cdot4)+(4\cdot5)+(1\cdot6)}{23}=\frac{70}{23}=3.04$
+
+| Noten        | Absolute Häufigkeit | Relative Häufigkeit | Relative Häufigkeit in % |
+| Sehr gut     |                   4 |              0.1739 |                   17.39% |
+| Gut          |                   5 |              0.2174 |                   21.74% |
+| Befriedigend |                   6 |              0.2608 |                   26.08% |
+| Ausreichend  |                   3 |              0.1304 |                   13.04% |
+| Mangelhaft   |                   4 |              0.1739 |                   17.39% |
+| Ungenügend   |                   1 |              0.0434 |                   4.34?% |
+| Gesamt       |                  23 |              0.9998 |                     100% |
+
+$0.9998\approx1$
 
 {{{endspoiler}}}
