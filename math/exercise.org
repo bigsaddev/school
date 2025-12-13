@@ -1,0 +1,39 @@
+#+TITLE: Übungsaufgaben mit Lösungsteil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+HTML_HEAD: <script src="../spoiler.js" defer></script>
+#+macro: spoiler @@html:<details><summary>$1</summary>@@
+#+macro: endspoiler @@html:</details>@@
+
+
+* Mischaufgabe
+Besucherzahlen für einen Zoo:
+| Tag      |  Mo |  Di |  Mi |  Do |  Fr |  Sa |  So |
+| Besucher | 323 | 289 | 256 | 315 | 458 | 400 | 282 |
+
+**a)** Berechne, wie viele Besucher durchschnittlich pro Tag vor Ort waren, Runde sinnvoll.
+
+**b)** Wie viele Besucher hätten es sein müssen, um den durchschnitt der Woche auf genau 400 zu bringen.
+
+**c)** Wie hoch ist der Anstieg in Prozent, für die gesamte Woche?
+
+**Formeln:**
+$$\overline{x}=\frac{\text{Summe aller Werte}}{\text{Anzahl der Werte}}$$
+
+$$p = \frac{W}{G}$$
+
+{{{spoiler(Lösungen)}}}
+
+a) $$\overline{x} = \frac{323+289+256+315+458+400+282}{7} = 331$$
+
+b) Formel umstellen
+$$\overline{x}\cdot7=\text{Besucher}$$
+$$400\cdot7 = 2800$$
+
+c) 
+$$W = 2800$$
+$$G = 2323$$
+$$p = \frac{W}{G}$$
+$$p = \frac{2800}{2323}=1.2053$$
+$$p = 20.53\%$$
+
+{{{endspoiler}}}
