@@ -1,0 +1,67 @@
+#+TITLE: Geschichtsnotizen
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+HTML_HEAD: <script src="../spoiler.js" defer></script>
+#+macro: spoiler @@html:<details><summary>$1</summary>@@
+#+macro: endspoiler @@html:</details>@@
+#+macro: line -----
+
+* Rassenidiologie
+- Die Nationalsozialisten behaupteten, dass Menschen in verschiedene "Rassen" eingeteilt werden könnten
+- Alles was von der "arischen Rasse" (blonde, blauäugige Deutsche) abwiech, galt als Minderwertig.
+
+* Propaganda
+Nationalsozialisten verbreiteten ihre Lügen mit verschiedenen Mitteln, u.a.
+- Plakate mit bösen Darstellungen von Juden
+- Schulbücher mit falschen "Rassen-Lehren"
+- Filme mit Lügen über bestimmte Gruppen
+- Reden von Hitler und anderen Nazi-Führern
+
+-> Menschen glaubten an diese Lügen, weil sie frustriert von der instabilen politischen Lage waren nach dem ersten Weltkrieg.
+
+-> Wer sich gegen das Regime stellte, wurde ebenfalls verfolgt und/oder sogar ermordet.
+
+Vorurteile ziehen sich noch heute durch das Leben vieler, ob es die "deutsche Kartoffel" oder der "Pole" der immer klaut, spielt keine Rolle.
+Natürlich sind dies noch milde Beispiele.
+Der Islam hat bei vielen bspw. das Vorurteil der Gewalt und Terroranschläge, Juden haben immer noch ihr Vorurteil "Geld".
+
+* Menschenrechte
+Grundsätze:
+- Alle Menschen sind gleich viel wert
+- Niemand darf wegen seiner Herkunft, Religion oder Hautfarbe benachteiligt werden
+- Jeder Mensch hat das Recht auf Leben, Freiheit und Sicherheit
+
+* Wege in die Katastrophe des Holocaust
+Die beiden Unterpunkte(Biologismus, Darwinismus) waren Teil der Grundlage für die Einteilung in verschiedene Rassen
+** Biologismus
+Biologismus bezeichnet die einseitige Erklärung menschlicher Verhaltensweisen und gesellschaftlicher Zustände allein oder vorrangig durch biologische Tatsachen und Theorien. Er wird oft kritisiert, weil er dazu neigt, gesellschaftliche Ungleichheiten als biologisch bedingt und unveränderbar zu rechtfertigen, was soziale Ungerechtigkeiten verschleiern kann.
+** Darwinismus
+Der Darwinismus beschreibt die Evolutionstheorie von Charles Darwin, die erklärt, wie sich Arten durch natürliche Selektion (Auslese) und gemeinsame Abstammung entwickeln.
+
+Kurzgesagt beschreibt der Darwinismus "Der stärkere überlebt und setzt sich durch"
+
+** Gesetze
+1. Gesetze zur Wiederherstellung des Berufbeamtentums
+   
+   -> Berufsverbote für alle Menschen jüdischen Glaubens in öffentlichen Berufen
+2. Nürnberger Rassegesetze
+   
+   -> Ehen nur unter "arischen" Ehepartnern
+3. Enteignung jüdischen Eigentums
+   
+   -> vor Verlassen des Deutschen Reichs
+
+   -> vor Deportation
+4. Wannseekonferenz
+
+   -> Beschluss zur Vernichtung der Juden
+
+* Rasse im NS-Staat
+- Arier (Nachweis über 3 Generationen)
+- Nordische Rasse
+- Slavische Rassen (Eigenschaft: Minderwertig, dienen als Sklaven)
+- Jüdische Rasse -> Vernichtung
+
+* Individuum vs. Gesellschaft
+Die individuelle Freiheit wurde eingeschränkt, Kinder, Jugendliche und junge Erwachsene wurden nach Geschlecht getrennt auf verschiedene Rollen vorbereitet.
+- Hitler Jugend -> Vorbereitung aufs Militär
+- Bund deutscher Mädel -> Vorbereitung auf Mutterrolle

@@ -1,0 +1,21 @@
+#+TITLE: Geschichtsnotizen
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+HTML_HEAD: <script src="../spoiler.js" defer></script>
+#+macro: spoiler @@html:<details><summary>$1</summary>@@
+#+macro: endspoiler @@html:</details>@@
+#+macro: line -----
+
+* Rassenidiologie
+- Die Nationalsozialisten behaupteten, dass Menschen in verschiedene "Rassen" eingeteilt werden könnten
+- Alles was von der "arischen Rasse" (blonde, blauäugige Deutsche) abwiech, galt als Minderwertig.
+
+* Propaganda
+Nationalsozialisten verbreiteten ihre Lügen mit verschiedenen Mitteln, u.a.
+- Plakate mit bösen Darstellungen von Juden
+- Schulbücher mit falschen "Rassen-Lehren"
+- Filme mit Lügen über bestimmte Gruppen
+- Reden von Hitler und anderen Nazi-Führern
+
+-> Menschen glaubten an diese Lügen, weil sie frustriert von der instabilen politischen Lage waren nach dem ersten Weltkrieg.
+
+-> Wer sich gegen das Regime stellte, wurde ebenfalls verfolgt und/oder sogar ermordet.
