@@ -93,8 +93,11 @@ $0.9998\approx1$
 
 * Brüche
 $\frac{1}{12}+\frac{3}{6}$
+
 $\frac{6}{9}-\frac{2}{20}$
+
 $\frac{3}{4}\cdot\frac{9}{3}$
+
 $\frac{8}{9}\div\frac{4}{3}$
 
 {{{spoiler(Lösungen aufklappen)}}}
