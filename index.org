@@ -1,4 +1,3 @@
-#+TITLE:
-
-[[file:math/exercise.org][Mathe Übungsaufgaben]]
-
+#+TITLE: Schulstuff von Chris
+1. [[file:math/exercise.org][Mathe Übungsaufgaben]]
+2. [[file:history/notes.org][Geschichtsnotizen]]
