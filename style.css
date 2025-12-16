@@ -91,6 +91,14 @@ h2 {
   margin-top: 0;
 }
 
+blockquote {
+    background: lightgray;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid black;
+    border-radius: 1em;
+}
+
 /* --- Mobile layout --- */
 
 @media (max-width: 800px) {

@@ -5,7 +5,7 @@
 #+macro: endspoiler @@html:</details>@@
 #+macro: line -----
 
-* Rassenidiologie
+* Rassenideologie
 - Die Nationalsozialisten behaupteten, dass Menschen in verschiedene "Rassen" eingeteilt werden könnten
 - Alles was von der "arischen Rasse" (blonde, blauäugige Deutsche) abwiech, galt als Minderwertig.
 
@@ -23,6 +23,25 @@ Nationalsozialisten verbreiteten ihre Lügen mit verschiedenen Mitteln, u.a.
 Vorurteile ziehen sich noch heute durch das Leben vieler, ob es die "deutsche Kartoffel" oder der "Pole" der immer klaut, spielt keine Rolle.
 Natürlich sind dies noch milde Beispiele.
 Der Islam hat bei vielen bspw. das Vorurteil der Gewalt und Terroranschläge, Juden haben immer noch ihr Vorurteil "Geld".
+
+* Die Nürnberger Gesetze
+- Gesetze zum Schutz des deutschen Blutes (Unterscheidung zwischen Deutschblütig, Mischling 1+2 Grades, Jude)
+- Die Ehe mit Juden wurde verboten und Geschlechtsverkehr unter Strafe gestellt (Blutschutzgesetz)
+- Jeder musste einen "Rasseausweis" mit sich führen, der die Herkunft bescheinigt
+- Mit diesen Gesetzen wurden den Juden alle Bürgerrechte entzogen
+  -> Entrechtung
+- Sie wurden aus öffentlichen Ämtern entlassen und durften sie nicht mehr ausüben
+- Auf der Straße wurden sie ausgeschlossen und diskriminiert
+
+** Mischlinge
+- Personen mit einem oder zwei jüdischen Großelternteilen
+*** Mischlinge 1. Grades
+- gehört nur der Deutschen Volksgemeinschaft an, kann Reichsbürger werden
+*** Mischlinge 2. Grades
+- gehört nur der Deutschen Volksgemeinschaft an, kann Reichsbürger werden
+
+** Volljuden
+- Personen mit drei oder vier jüdischen Großelternteilen
 
 * Menschenrechte
 Grundsätze:
@@ -65,3 +84,62 @@ Kurzgesagt beschreibt der Darwinismus "Der stärkere überlebt und setzt sich du
 Die individuelle Freiheit wurde eingeschränkt, Kinder, Jugendliche und junge Erwachsene wurden nach Geschlecht getrennt auf verschiedene Rollen vorbereitet.
 - Hitler Jugend -> Vorbereitung aufs Militär
 - Bund deutscher Mädel -> Vorbereitung auf Mutterrolle
+
+* Weltwirtschaftskrise 1929
+- starker weltweiter Rückgang der Industrieproduktion, Welthandels sowie Deflationsspirale, Schuldendeflation 
+- War zu Beginn des ersten Weltkriegs noch nicht in allen Ländern überwunden
+- NS-Deutschland hatte die Weltwirtschaftskrise in 1936 in einigen Punkten bewältigt, es war eines der ersten Länder,
+  die wieder Vollbeschäftigung erreichten, meist jedoch durch Arbeitsbeschaffung (staatliche Investitionen, um Beschäftigungslose wieder an Beschäftigung zu bringen).
+  
+  Schlechte Arbeitsbedingungen und neidrige Löhne.
+- Schlechte Finanzbeziehungen nach dem ersten Weltkrieg.
+
+** Schuldendeflation
+Sinkende Einkommen bei gleichbleibenden Schulden
+
+* Hitlerjugend
+Die Hitlerjugend brachte gerade für die Untere und Mittelschicht eine "willkommene Abwechslung", Familien konnten ihren Kindern ein bspw. schönen Sommer ermöglichen in den
+Sommercamps der Hiterljugend.
+
+Bestärkt durch den Glauben des Darwinismus, wurden Kinder und junge Erwachsene "spielerisch" auf das Militär vorbereitet in den Sommercamps,
+untereinander kam es zu Konkurrenzkämpfen, einige konnten dem Druck nicht standhalten und nahmen sich das Leben.
+
+** Das Frauenbild
+Bund Deutscher Mädel (Vollbezeichnung Bund Deutscher Mädel in der Hitler-Jugend)
+- Pflichtmitgliedschaft ab 1936 für alle, sofern sie nicht aus "rassischen Gründen" ausgeschlossen waren.
+- Bund Deutscher Mädel meist für 14-18 Jährige
+- Jungmädelbund für 10-14 Jährige
+
+**Zitate von Hitler:**
+#+begin_quote
+Die Gleichberechtigung der Frau besteht darin, daß sie in den ihr von der Natur bestimmten Lebensgebieten jene Hochschätzung erfährt, die ihr zukommt […] Auch die deutsche Frau hat ihr Schlachtfeld: Mit jedem Kinde, das sie der Nation zur Welt bringt, kämpft sie ihren Kampf für die Nation.
+#+end_quote
+
+#+begin_quote
+Die Jungen werden zu politischen Soldaten und die Mädel zu starken und tapferen Frauen erzogen, die diesen politischen Soldaten Kameraden sein sollen – und unsere nationalsozialistische Weltanschauung später in ihrer Familie als Frauen und Mütter leben und gestalten – und so wieder großziehen eine Generation der Härte und des Stolzes. Wir wollen darum bewußt politische Mädel formen. Das bedeutet nicht: Frauen die später in Parlamenten debattieren und diskutieren, sondern Mädel und Frauen, die um die Lebensnotwendigkeiten des deutschen Volkes wissen und dementsprechend handeln.
+#+end_quote
+
+- Sollten Kinder zur Welt bringen, mit jedem Kind, kämpft sie für ihre Nation.
+- Mädel zu starken und tapferend Frauen erzogen, die ihre Familien nationalsozialistisch erziehen.
+- Sie sollten nicht politisch in Parlamenten debattieren, ihr Platz war nur bei den Kindern.
+
+*** Erzwungener Mitgliederzuwachs ab 1933
+Am 17. Juni 1933 erließ der Reichsjugendführer Verordnungen, die die bis dahin bestehenden konkurrierenden Jugendverbände auflösten oder verboten.
+
+* Politische Situation in der Weimarer Republik
+** Links
+- KPD (Kommunistische Partei Deutschlands): Revolutionär, bekämpfte das parlamentarische System von Anfang an
+- SPD (Sozialdemokratische Partei Deutschlands): Trug die Republik mit, stellte den ersten Präsidenten (Friedrich Ebert), aber auch eine linke Mehrheit schloss sich später der KPD an
+** Mitte
+- DDP (Demokratische Partei Deutschlands): Linksliberal, vertrat die Republikaner.
+- Zentrumspartei (Zentrum): Katholische Partei, ein wichtiger Stabilisator der Republik.
+- BVP (Bayerische Volkspartei): Bayerischer Ableger des Zentrums.
+
+** Rechts
+- DNVP (Deutschnationale Volkspartei): Monarchistisch gesinnt, lehnte die Republik ab.
+- NSDAP (Nationalsozialistische Deutsche Arbeiterpartei): Rechtsextrem, radikal, antidemokratisch und gegen das System gerichtet.
+
+** Die Weimarer Republik war von starken Gegensätzen geprägt
+Links standen die radikalen Revolutionäre(KPD), in der Mitte die Parteien, die die demokratische Ordnung stützen wollten (SPD, Zentrum, DDP, DVP), und am rechten Rand die antirepublikanischen Kräfte (DNVP, NSDAP), was das Ringen um Stabilität und Kompromiss in der Republik kennzeichnete.
+
+
